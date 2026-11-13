@@ -1,3 +1,4 @@
+
 # ☀️ Solar Energy Prediction Using Machine Learning
 
 ## 📌 Project Overview
@@ -99,3 +100,5 @@ MINUTE
 DAY
 MONTH
 AC_POWER
+
+# SolarEnergyPrediction
